@@ -37,6 +37,9 @@ Persistence (PostgreSQL)
 This flow represents **every ingestion pipeline** in the system.
 
 ---
+
+### Then add this 👇
+
 ```markdown
 ### Module Responsibilities
 
